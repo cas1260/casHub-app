@@ -1,0 +1,5 @@
+# Os pacotes (instaladores, .zip e .dmg) não entram no repositório: vão na página de Releases.
+release/
+
+.DS_Store
+Thumbs.db
